@@ -1,5 +1,5 @@
 # Generador-de-Contraseñas
-El Generador de contraseñas, puede mezclar aleatoriamente, letras, números y simbolos,  y tambien se le adapta una logitud para generar un nivel de seguridad mas fuerte.
+El Generador de contraseñas, puede mezclar aleatoriamente, letras, números y simbolos,  y tambien se le adapta una logitud para generar un password con un nivel de seguridad mas fuerte.
 
 #Importamos las librerias y funciones
 import tkinter
